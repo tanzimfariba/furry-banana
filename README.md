@@ -19,4 +19,4 @@ Furry Banana is a fun and quirky browser game where you play as a furry cat on a
 This project is a simple demonstration of HTML and CSS for a playful game concept.
 
 ---
-Enjoy the adventure and help your furry cat eat all
+Enjoy the adventure and help your furry cat eat all.
